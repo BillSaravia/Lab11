@@ -14,6 +14,8 @@
 
         public string Email { get; set; }
 
+        public bool Activo { get; set; }
+
         //Grade
 
         public int GradeId { get; set; }
